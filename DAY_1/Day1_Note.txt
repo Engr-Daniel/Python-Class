@@ -1,0 +1,30 @@
+Problems
+
+Too much content
+Hard to Learn
+Less Application
+Not Interactive
+Not Precise
+information Overload
+
+Solutions
+- Clear-cut, precise & focused implementation with clear cut mentorship
+- Application based learning
+
+PYTHON INTRODUCTION
+- Founded by Guido Van Rossum in 1990
+- Purpose: Easy, Python libraries help to do lot of tasks easily
+-Application: Data Science, Creating Websites
+
+PYTHON NOTEBOOKS:
+- Python ide
+- Jupyter notebook
+- Anaconda Spyder
+- MS visual studio code
+- google coolab
+- Pycharm
+ 
+NOTE
+- Don't go for the very latest version, go for the stable version
+
+How to install libraries through command prompt and idle

@@ -1,0 +1,24 @@
+DATA TYPES
+- Integer 5
+- Flaoting ppoint 111.3
+- String   "helllo"
+- List   [2,"ert"]
+- Dictionary  {'age':12, 'name':"dan"}
+- Tuples (2, "ert")
+- Set  {'afe', 24}
+- Boolean   True or False
+
+RULES guiding Variablename,
+
+LIST -- Collection of Ordered Data Square Braces [] MUTABLE append - add elements pop - remove the element Sort - sorting elements index - Searching given element reverse - reverse the element 
+
+TUPLE -- Ordered Collection of Data Patenthesis () IMUTABLE Cannot be added specific element Cannot be removed Already sorted
+index - Searching given element which
+returns the position Cannot be reversed
+
+SET -- Unordered Collection of Data Curly braces {} MUTABLE | No DUPLICATES add - add elements pop - remove the random element Cannot be sorted Cannot get index Cannot be reversed
+
+DICTIONARY -- Unordered collection which stores data in
+KEY, VALUE Basis Curly braces () MUTABLE | No DUPLICATES update - add values with key pop - remove the specified element sorted - sorting keys DEFAULT get - return value with element key Cannot be reversed
+
+
